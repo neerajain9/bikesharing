@@ -57,4 +57,4 @@ Additionally, we ran analysis of user behavior by their age group and then broke
 
 
 To test our hypothesis, we laid out the similar data with a different visualization. And we consider only Subscribers in this analysis. It seems userbase had been consistent across the gender as well as in the age group from 1950 - 2000.
-![]()
+![](https://github.com/neerajain9/bikesharing/blob/Data-Science/Resources/Subscriber's%20Age%20Group%20By%20Gender1.png?raw=true)
